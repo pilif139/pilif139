@@ -1,8 +1,17 @@
 <div align="center">
-  <img height="300" src="https://gifdb.com/images/high/walter-white-chemicals-lab-igd88x7kfdoqmd8a.gif"  />
+  <img height="280" src="https://gifdb.com/images/high/walter-white-chemicals-lab-igd88x7kfdoqmd8a.gif"  />
 </div>
 
 ###
+
+<div align="center">
+  <a href="pilif_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/pilif____/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
 
 ###
 
