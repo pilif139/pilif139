@@ -48,25 +48,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://ih1.redbubble.net/image.669683153.7640/raf,750x1000,075,t,000000:44f0b734a5.jpg"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="190" src="https://gifdb.com/images/high/walter-white-chemicals-lab-igd88x7kfdoqmd8a.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/nurrs6jhrmtg1s354kv2xyclc">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=nurrs6jhrmtg1s354kv2xyclc&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
