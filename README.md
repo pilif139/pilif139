@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">my name is filip😎<br>im programming since 2021 🐱‍🐉<br>currently learning: js, react, c#, sql 🔥</h4>
+<h4 align="left">my name is filip😎<br>im programming since 2021 🐱‍🐉<br>currently learning: js,typescript, react, c#, sql 🔥</h4>
 
 ###
 
